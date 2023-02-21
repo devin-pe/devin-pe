@@ -1,7 +1,8 @@
+
+
+![banner](https://user-images.githubusercontent.com/80720106/220474297-8b1fde93-3476-44a2-8f25-3db66ff1657d.png)
+
 ### Hi 👋
-
-<img src=”https://user-images.githubusercontent.com/80720106/220474297-8b1fde93-3476-44a2-8f25-3db66ff1657d.png" alt=”my banner”>
-
 <!--
 **devin-pe/devin-pe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
