@@ -7,7 +7,7 @@
 
 ### Hi I'm Devin👋
 - :earth_africa: Born in Canada, raised in Luxembourg
-- :desktop_computer: Finishing the 4th year of my Computing Bachelors at Queen's University 
+- :desktop_computer: Completing my Bachelor's in Computing at Queen's University 
 - 🌱 Passionate about machine learning and cryptography
 - :globe_with_meridians: Looking to collaborate on ML research projects and/or blockchain projects
 - 😄 Pronouns: he/him
