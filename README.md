@@ -4,9 +4,9 @@
 
 ### Hi I'm Devin👋
 - :earth_africa: Born in Canada, raised in Luxembourg
-- :desktop_computer: Completing my Bachelor's in Computing at Queen's University 
-- 🌱 Passionate about machine learning and cryptography
-- :globe_with_meridians: Looking to collaborate on ML research projects and/or blockchain projects
+- :desktop_computer: Bachelor's in Computing from Queen's University 
+- 🌱 Passionate about machine learning
+- :globe_with_meridians: Looking to collaborate on ML research projects
 - 😄 Pronouns: he/him
 - :soccer: Big football (soccer) fan!
 
