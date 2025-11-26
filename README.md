@@ -1,5 +1,5 @@
 [![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?style-plastic-blue&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devin-pereira/)
-[![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style-plastic-blue&logo=microsoft-outlook&logoColor=white)](mailto:devin.pereira@queensu.ca)
+[![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style-plastic-blue&logo=microsoft-outlook&logoColor=white)](mailto:devin.pereira@student.uva.nl)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style-plastic-blue&logo=gmail&logoColor=white)](mailto:devpereira1@gmail.com)
 
 ### Hi I'm Devin👋
