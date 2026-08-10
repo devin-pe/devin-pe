@@ -4,10 +4,10 @@
 
 ### Hi I'm Devin👋
 - :earth_africa: Born in Canada, raised in Luxembourg
-- :desktop_computer: Pursuing Master's in Machine learning @ University of Amsterdam
+- :desktop_computer: Master's in Machine learning @ University of Amsterdam
 - 📚:Bachelor's in Computing from Queen's University
 - 🌱 Passionate about machine learning
-- :globe_with_meridians: Looking to collaborate on ML research projects
+- :globe_with_meridians: Looking to collaborate on ML projects
 - 😄 Pronouns: he/him
 - :soccer: Big football (soccer) fan!
 
